@@ -4599,6 +4599,27 @@ a:visited {
   background-image: url("http://i.imgur.com/RFB1leX.jpg");
 }
 
+#zain-cover{
+  background-image: url("http://halai.us/img/cover.jpg");
+}
+
+#zain-card{
+  background-image: url("http://halai.us/img/temp.jpg");
+}
+
+.zain-link {
+  color: #000;
+  text-decoration: none;
+}
+
+.zain-line-quote {
+  font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #85929d;
+  width: 75%;
+  margin: 15 auto;
+}
+
 #john-pfingst-cover {
   background-image: url("http://imgur.com/VZjH8FU.jpg");
 }
